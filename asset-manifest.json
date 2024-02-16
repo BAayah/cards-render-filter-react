@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cards-render-filter-react/static/css/main.3524c7a4.css",
+    "main.js": "/cards-render-filter-react/static/js/main.9798c250.js",
+    "index.html": "/cards-render-filter-react/index.html",
+    "main.3524c7a4.css.map": "/cards-render-filter-react/static/css/main.3524c7a4.css.map",
+    "main.9798c250.js.map": "/cards-render-filter-react/static/js/main.9798c250.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3524c7a4.css",
+    "static/js/main.9798c250.js"
+  ]
+}
