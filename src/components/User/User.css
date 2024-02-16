@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(190, 170, 170);
+}
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: gray;
+}
+.user-card {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+}
+.btn {
+    border-style: none;
+    cursor: pointer;
+    width: 100px;
+    background: none;
+}
+.btn:hover {
+    color: red;
+}
+.App {
+    width: 800px;
+    margin: 0 auto;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.btns-group {
+    display: flex;
+    justify-content: center;
+}
